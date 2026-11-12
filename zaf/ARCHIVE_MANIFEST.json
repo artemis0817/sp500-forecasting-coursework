@@ -1,0 +1,58 @@
+{
+  "created_utc": "2026-11-12T20:47:19.551483+00:00",
+  "original_files_verified_unchanged": 1989,
+  "archives": [
+    {
+      "trial": 1,
+      "archive": "Zaf_Trial_01_20261102_Evidence.zip",
+      "files": 48,
+      "sha256": "f9f1534edb89fdf4ad88f88e2e888a7e81708da873d0a0da77ae18e4352944a5",
+      "extracted_archive_reproduction_passed": true,
+      "forecasts": {
+        "A": "7580.07",
+        "B": "7545.07",
+        "C": "7587.69",
+        "D": "7586.23"
+      }
+    },
+    {
+      "trial": 2,
+      "archive": "Zaf_Trial_02_20261103_Evidence.zip",
+      "files": 92,
+      "sha256": "221dad06d4253b2d4b903421b4d229719ddfdd293b1c8dd194036dd0b566a7b4",
+      "extracted_archive_reproduction_passed": true,
+      "forecasts": {
+        "A": "7541.40",
+        "B": "7485.00",
+        "C": "7546.43",
+        "D": "7560.34"
+      }
+    },
+    {
+      "trial": 3,
+      "archive": "Zaf_Trial_03_20261104_Evidence.zip",
+      "files": 64,
+      "sha256": "b87f306bcea01f95e48cab84cc0c9916604f269274c79cbdee31ba2cc5655ef4",
+      "extracted_archive_reproduction_passed": true,
+      "forecasts": {
+        "A": "7568.92",
+        "B": "7508.42",
+        "C": "7573.50",
+        "D": "7593.19"
+      }
+    },
+    {
+      "trial": 4,
+      "archive": "Zaf_Trial_04_20261105_Evidence.zip",
+      "files": 74,
+      "sha256": "9419a6bf1f039c55fafdf74de6f5531fc45057bab1773fddf9438450a553cd63",
+      "extracted_archive_reproduction_passed": true,
+      "forecasts": {
+        "A": "7688.62",
+        "B": "7660.74",
+        "C": "7697.25",
+        "D": "7707.16"
+      }
+    }
+  ]
+}
