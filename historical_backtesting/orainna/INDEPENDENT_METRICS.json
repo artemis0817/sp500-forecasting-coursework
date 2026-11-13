@@ -1,0 +1,21 @@
+{
+  "method": "Decimal arithmetic from per-origin CSV; APE=100*abs(forecast-actual)/actual; signed error=100*(forecast-actual)/actual; MAE=mean(abs(forecast-actual)).",
+  "n": 142,
+  "first_origin": "2024-02-09T12:00:00+00:00",
+  "last_origin": "2026-10-23T11:00:00+00:00",
+  "first_target_date": "2024-02-16",
+  "last_target_date": "2026-10-30",
+  "source_csv": "evidence/validation_origins.csv",
+  "models": {
+    "random_walk": {
+      "MAPE_pct": "1.606189526407821793329538813",
+      "mean_signed_percentage_error_pct": "-0.2849031243640044589955602843",
+      "mean_absolute_point_error": "100.2670485805457746478873239"
+    },
+    "expanding_log_momentum_OLS": {
+      "MAPE_pct": "1.584481443310190370342065758",
+      "mean_signed_percentage_error_pct": "0.1618030838721755855168527832",
+      "mean_absolute_point_error": "98.72630505342892605633802817"
+    }
+  }
+}

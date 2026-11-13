@@ -1,0 +1,18 @@
+{
+  "created_utc": "2026-11-13T14:33:00Z",
+  "archive": "Orainna_Backtesting_Support_20261113.zip",
+  "files": 19,
+  "bytes": 61401,
+  "sha256": "ea5a97628989a1fc5d434417598639502cc7e6993d535571f1a0c1ac16e50eee",
+  "archive_reproduction_passed": true,
+  "source_snapshot_sha256": "2318c39f6cdce53426b4f129140c4d1ceba53cf2c1cb7b8a102dab6233f59f1b",
+  "models": [
+    "Random walk",
+    "Orainna expanding log-momentum OLS"
+  ],
+  "validation_origins": 142,
+  "MAPE_pct": {
+    "random_walk": "1.606189526407821793329538813",
+    "expanding_log_momentum_OLS": "1.584481443310190370342065758"
+  }
+}
