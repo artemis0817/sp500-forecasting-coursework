@@ -1,0 +1,62 @@
+{
+  "created_utc": "2026-11-13T02:45:23Z",
+  "original_frozen_archives_verified_unchanged": 4,
+  "archives": [
+    {
+      "trial": 1,
+      "archive": "Orainna_Trial_01_20261102_Evidence.zip",
+      "files": 15,
+      "sha256": "00db9eb116f003805b9df4deec28dc5b30dc899af329d2cbd80f9c0b96e32751",
+      "extracted_archive_reproduction_passed": true,
+      "original_frozen_archive": "Trial_01_20261102_Frozen.zip",
+      "original_frozen_archive_sha256": "8f39929fa820fd4eeb69f0dc7538b55e00aba3290261509c3da11f17f3a8554d",
+      "original_frozen_archive_unchanged": true,
+      "forecasts": {
+        "Momentum20_only_OLS": "7627.42",
+        "Random_walk": "7580.07"
+      }
+    },
+    {
+      "trial": 2,
+      "archive": "Orainna_Trial_02_20261103_Evidence.zip",
+      "files": 15,
+      "sha256": "dc2ad4840e41b762b92fc1f252a6eda75b20ce6b91fa5420c0ac98243876bc8c",
+      "extracted_archive_reproduction_passed": true,
+      "original_frozen_archive": "Trial_02_20261103_Frozen.zip",
+      "original_frozen_archive_sha256": "485e1fad6f8d74ed3db26208fdcb0a0680d5f82c0d596bdae19bad449e995488",
+      "original_frozen_archive_unchanged": true,
+      "forecasts": {
+        "Momentum20_only_OLS": "7591.49",
+        "Random_walk": "7541.40"
+      }
+    },
+    {
+      "trial": 3,
+      "archive": "Orainna_Trial_03_20261104_Evidence.zip",
+      "files": 15,
+      "sha256": "4c808a5e25fc59db42533c2d86f5baa0df325c952e3f340d88da957109ceaf66",
+      "extracted_archive_reproduction_passed": true,
+      "original_frozen_archive": "Trial_03_20261104_Frozen.zip",
+      "original_frozen_archive_sha256": "a6ebb1938ed7b55fe7a0b96dd8ce9e339d5950b5abeaa74878780be9b59348bd",
+      "original_frozen_archive_unchanged": true,
+      "forecasts": {
+        "Momentum20_only_OLS": "7633.60",
+        "Random_walk": "7568.92"
+      }
+    },
+    {
+      "trial": 4,
+      "archive": "Orainna_Trial_04_20261105_Evidence.zip",
+      "files": 15,
+      "sha256": "e46e917db3a545b23dcad8e33c7dbcbd3e6d36eaa694c956b26328a32be82efe",
+      "extracted_archive_reproduction_passed": true,
+      "original_frozen_archive": "Trial_04_20261105_Frozen.zip",
+      "original_frozen_archive_sha256": "55db8f17c9f4c2c76b8f30b498d0c12d3ed869c84c8c69d28d6916197e58d85b",
+      "original_frozen_archive_unchanged": true,
+      "forecasts": {
+        "Momentum20_only_OLS": "7712.85",
+        "Random_walk": "7688.62"
+      }
+    }
+  ]
+}
