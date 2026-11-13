@@ -2,8 +2,6 @@
 
 This backtest compares a random-walk benchmark with an expanding log-momentum OLS model on the S&P 500 price index. It evaluates 142 Friday 12:00 Europe/London origins from 9 February 2024 to 23 October 2026, with target closes through 30 October 2026.
 
-- **Random walk:** `F_t = P_t`.
-- **Expanding OLS:** `m20_t = ln(P_t / P_{t-20})`; fit `y_i = a + b m20_i`, where `y_i = ln(P_target,i / P_i)`, using prior Friday-origin labels whose target closes were already observed. The window expands; fitting starts after 52 matured labels. Forecast: `F_t = P_t × exp(a + b m20_t)`.
 
 The target is the latest close available at or before 7 days 9 hours after each origin, in London wall-clock time. Close availability is assumed at 16:00 New York time. This log-return OLS specification is distinct from report C(i), which uses simple returns.
 
