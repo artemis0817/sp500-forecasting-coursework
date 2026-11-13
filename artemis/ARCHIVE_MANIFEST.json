@@ -1,0 +1,74 @@
+{
+  "contributor": "Artemis",
+  "forecast_count": 12,
+  "archives": [
+    {
+      "trial": 1,
+      "archive": "Artemis_Trial_01_20261102_Evidence.zip",
+      "original_archive": "Trial_01_20261102_Frozen.zip",
+      "files": 30,
+      "sha256": "8f39929fa820fd4eeb69f0dc7538b55e00aba3290261509c3da11f17f3a8554d",
+      "zip_integrity_passed": true,
+      "matches_previous_comparison_zip": true,
+      "information_cutoff_utc": "2026-11-02T12:00:00+00:00",
+      "target_time_utc": "2026-11-09T21:00:00+00:00",
+      "actual_generated_utc": "2026-11-02T22:06:28.174013+00:00",
+      "forecasts": {
+        "VIX5_regression": "7626.17",
+        "momentum_only_OLS": "7627.42",
+        "random_walk_no_drift": "7580.07"
+      }
+    },
+    {
+      "trial": 2,
+      "archive": "Artemis_Trial_02_20261103_Evidence.zip",
+      "original_archive": "Trial_02_20261103_Frozen.zip",
+      "files": 26,
+      "sha256": "485e1fad6f8d74ed3db26208fdcb0a0680d5f82c0d596bdae19bad449e995488",
+      "zip_integrity_passed": true,
+      "matches_previous_comparison_zip": true,
+      "information_cutoff_utc": "2026-11-03T12:00:00+00:00",
+      "target_time_utc": "2026-11-10T21:00:00+00:00",
+      "actual_generated_utc": "2026-11-03T16:25:36.396688+00:00",
+      "forecasts": {
+        "VIX5_regression": "7591.16",
+        "momentum_only_OLS": "7591.49",
+        "random_walk_no_drift": "7541.40"
+      }
+    },
+    {
+      "trial": 3,
+      "archive": "Artemis_Trial_03_20261104_Evidence.zip",
+      "original_archive": "Trial_03_20261104_Frozen.zip",
+      "files": 31,
+      "sha256": "a6ebb1938ed7b55fe7a0b96dd8ce9e339d5950b5abeaa74878780be9b59348bd",
+      "zip_integrity_passed": true,
+      "matches_previous_comparison_zip": true,
+      "information_cutoff_utc": "2026-11-04T12:00:00+00:00",
+      "target_time_utc": "2026-11-11T21:00:00+00:00",
+      "actual_generated_utc": "2026-11-04T15:35:44.801652+00:00",
+      "forecasts": {
+        "VIX5_regression": "7647.59",
+        "momentum_only_OLS": "7633.60",
+        "random_walk_no_drift": "7568.92"
+      }
+    },
+    {
+      "trial": 4,
+      "archive": "Artemis_Trial_04_20261105_Evidence.zip",
+      "original_archive": "Trial_04_20261105_Frozen.zip",
+      "files": 31,
+      "sha256": "55db8f17c9f4c2c76b8f30b498d0c12d3ed869c84c8c69d28d6916197e58d85b",
+      "zip_integrity_passed": true,
+      "matches_previous_comparison_zip": true,
+      "information_cutoff_utc": "2026-11-05T12:00:00+00:00",
+      "target_time_utc": "2026-11-12T21:00:00+00:00",
+      "actual_generated_utc": "2026-11-05T15:39:12.759133+00:00",
+      "forecasts": {
+        "VIX5_regression": "7709.03",
+        "momentum_only_OLS": "7712.85",
+        "random_walk_no_drift": "7688.62"
+      }
+    }
+  ]
+}
